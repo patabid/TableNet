@@ -5,7 +5,7 @@ This is a simple implementation of the TableNet nerual net.
 
 It is implemented as a python module that can be imported for training and usage. 
 
-Absolutely no guarantee that it works... or warrantee if it doesnt. 
+Absolutely no guarantee that it works... or warranty if it doesnt. 
 
 It is trained on a customized Marmot dataset.
 
